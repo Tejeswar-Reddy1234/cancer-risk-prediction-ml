@@ -1,0 +1,4 @@
+RANDOM_STATE = 42
+TEST_SIZE = 0.2
+N_FEATURES = 10
+MODEL_PATH = "best_model.pkl"
